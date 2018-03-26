@@ -1,0 +1,4 @@
+{"0":"/ query","1":{"query":{"q":"1"}},"name":"myapp","hostname":"Fredriks-MBP","pid":2726,"level":30,"msg":"","time":"2018-02-11T14:51:16.738Z","v":0}
+{"0":"Finding user","1":{"q":"1"},"name":"myapp","hostname":"Fredriks-MBP","pid":2726,"level":30,"msg":"","time":"2018-02-11T14:51:16.741Z","v":0}
+{"0":"User found","1":{"foundUser":{"username":"foo","password":"*****","email":"*****","address":{"street":"*****","zip":"*****","city":"*****"}}},"name":"myapp","hostname":"Fredriks-MBP","pid":2726,"level":30,"msg":"","time":"2018-02-11T14:51:16.742Z","v":0}
+{"0":"/ response","1":{"username":"foo","foundUser":true},"name":"myapp","hostname":"Fredriks-MBP","pid":2726,"level":30,"msg":"","time":"2018-02-11T14:51:16.743Z","v":0}

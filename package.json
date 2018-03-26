@@ -1,0 +1,25 @@
+{
+  "name": "logging",
+  "version": "1.0.0",
+  "description": "## What we will cover",
+  "main": "server.js",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fChristenson/logging-in-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fChristenson/logging-in-node/issues"
+  },
+  "homepage": "https://github.com/fChristenson/logging-in-node#readme"
+}
