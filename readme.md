@@ -6,6 +6,10 @@
 * Why is it important?
 * A quick and dirty way to make a mask
 
+## Videos
+
+- [Logging in Node](https://www.youtube.com/watch?v=k-o9UoL-pQg)
+
 ## Notes
 
 Logging is important but sometimes you need to be careful with what you log.
@@ -14,4 +18,3 @@ approach to solve this is to use a mask.
 
 A mask is just a placeholder value instead of the real value so that you can still
 log out what the datastructure is but without exposing the private information.
-
